@@ -1,3 +1,8 @@
+---
+title: "My First Post"
+date: 2018-07-06
+---
+
 # This is the first post #
 
 Some content here.
