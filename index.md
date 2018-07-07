@@ -10,7 +10,7 @@ git commit
 ```
 
 My to-do list
-[x] Make github pages blog
-[ ] Talk about fastai on colab
+* [x] Make github pages blog
+* [ ] Talk about fastai on colab
 
 Made with [Github Pabes](pages.github.com)
