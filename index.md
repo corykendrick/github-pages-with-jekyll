@@ -1,16 +1,18 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ML and deep learning basics. 
+I'm glad you are here. I plan to talk about ML and deep learning basics.
 
-There are many Git commands
+Some basic Git commands are:
 ```
-git init
-git add
+git status
+git add 
 git commit
 ```
 
-My to-do list
-* [x] Make github pages blog
-* [ ] Talk about fastai on colab
+For my first post I will
+- [x] Launch the blog
+- [ ] Talk about using fastai on colab
 
-Made with [Github Pabes](pages.github.com)
+
+
+This site was built using [Github Pages](https://pages.github.com).
